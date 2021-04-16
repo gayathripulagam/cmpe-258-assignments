@@ -2,7 +2,7 @@
 
 **MNIST classifier using pure numpy and keras using various knobs**
 
-- Used different values of dropout in different layers and acheived an accuracy of 98.04%
+- Used different values of dropout in different layers with an accuracy of 98.04%
 - Visualized using liveplotlosses and confusion matrix
 - Data Augmentation with datagen
 
