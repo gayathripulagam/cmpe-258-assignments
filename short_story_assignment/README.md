@@ -1,6 +1,6 @@
 # Short Story Assignment
 
-## Topic - A Survey of Graph Self-Supervised Learning
+## Topic - Self-Supervised Learning for Graph Data
 
 Paper that inspired this article - https://arxiv.org/pdf/2103.00111.pdf
 
