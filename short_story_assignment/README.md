@@ -11,4 +11,4 @@ Medium article link - https://gayathripulagam.medium.com/self-supervised-learnin
 Slide deck can be accessed at - https://www.slideshare.net/GayathriPulagam/self-supervised-learning-for-graph-data
 
 
-Presentation video - 
+Presentation video - https://drive.google.com/file/d/1hmPnDkuHegKXs9G1Lojotd81-iYcvaZu/view?usp=sharing
