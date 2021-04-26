@@ -11,3 +11,4 @@ https://towardsdatascience.com/how-to-build-a-wide-and-deep-model-using-keras-in
 https://colab.research.google.com/drive/1xS2YjhCYGnOrsyVRKxqN-PvdFROSnDvM?authuser=1#scrollTo=RVD6QcxACS_-
 https://www.kaggle.com/sandeepkumar121995/eda-data-cleaning-xg-boost
 https://towardsdatascience.com/deep-learning-using-pytorch-for-tabular-data-c68017d8b480
+https://www.tensorflow.org/tfx/tutorials/tfx/components_keras
